@@ -3,6 +3,9 @@ bank-fraud-detection-with-deployment
 
 The Bank Fraud Detection ML project aims to identify and prevent fraudulent transactions in real-time by leveraging machine learning algorithms. The project involves building predictive models to detect anomalous patterns in financial transactions, distinguishing between legitimate and fraudulent activities
 
+
+Dagshub : https://dagshub.com/SrijanDeo-DA-DS/bank-fraud-detection-with-deployment.mlflow/#/experiments/6?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+
 Project Organization
 ------------
 
